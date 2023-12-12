@@ -42,15 +42,15 @@ Castle and Stone Castle are built from the hero menu only 1 can be built per map
 #### Quarry  
 <img src="assets/buildings/quarry.png" style="height: 5vw;" />
 
-Resource gathering buildins - gold, steel
+Resource gathering buildings - gold, steel
 #### Lumbermill  
 <img src="assets/buildings/lumbermill.png" style="height: 5vw;" />     
 
-Resource gathering buildins - wood
+Resource gathering buildings - wood
 #### Farm  
 <img src="assets/buildings/farm.png" style="height: 5vw;" />       
 
-Resource gathering buildins - population, taxes
+Resource gathering buildings - population, taxes
 #### Barracks  
 <img src="assets/buildings/barracks.png" style="height: 5vw;" />       
 
@@ -87,7 +87,7 @@ final building before stone age
 #### Stone age factory  
 <img src="assets/buildings/stoneagefactory.png" style="height: 5vw;" />        
 
-![balista](assets/units/image-2.png)
+![ballista](assets/units/image-2.png)
 ![catapult](assets/units/image-9.png)
 
 #### Stone age laboratory  
@@ -136,9 +136,9 @@ Enemies: Bogomil, Svetogor
 Access  to: 1,3, 2-2(via snake map)  
 Mage: Ikon  
 Notes:
-- Shado  sword to kill enemies on 2-3 map  
-- Secre  parchment in the cave   
-- Made  rops lighning spectres  
+- Shadow sword to kill enemies on 2-3 map  
+- Secret parchment in the cave   
+- Mage drops urn of spectres  
 
 ## Map 3
 ![](assets/maps/map3.png)  
@@ -171,9 +171,9 @@ Notes:
 Enemies: Dragon     
 Access to: 3-2,1-2,2-3,2(only to snake island)      
 Notes:  
-- Gives lighning item used to summon dragons    
+- Gives lightning item used to summon dragons    
 - Can not return without crown or will get dragon aggro 
-- 3 spiderwebs on the left side, contains dragon killer, diamond, green lighning(clears hero xp)    
+- 3 spiderwebs on the left side, contains dragon killer, diamond, green lightning(clears hero xp)    
 
 
 ## Map 1-2 
@@ -184,7 +184,7 @@ Made: Dagon
 Notes:      
 - Dagon Will drop 2 poisons    
 - Arguable hardest enemies out of all due to many stone towers, use dragons here if you have them       
-- Mage keeps summoning spectres acound the map defend everything        
+- Mage keeps summoning spectres around the map defend everything        
 
 
 ## Map 1-3
@@ -200,7 +200,7 @@ Notes:
 ![](assets/maps/map2-3.png)   
 Enemies: 
 access to 2-2       
-- you need to wear the crown of the dragon to disable clouds and aligators, you can only equip the crown while in this map
+- you need to wear the crown of the dragon to disable clouds and alligators, you can only equip the crown while in this map
 
 
 
@@ -208,14 +208,14 @@ access to 2-2
 ![](assets/maps/mapsnake.png)  
 Notes:
 - Contains 2 poisons
-- Urn of spectres(botom left)
+- Urn of spectres(bottom left)
 - Gold 
 - Spectres
 
 
 ## Map 2-4
 ![](assets/maps/map2-4.png)  
-final map, walking to the bridge triggers the cutscene
+final map, walking to the bridge triggers the cut-scene
 
 
 
@@ -232,7 +232,7 @@ Ctrl+Shift+Alt+H | Heals The Troops/Workers That Are Selected (Not Buildings)
 # technical links
 
 ## ddraw
-Fixed the avi/cinematic errors, does not fix random game crashes. Copy ddraw.dll to game directory, launch game, if log file in the game directory was created - dll is working. Use ini or internal settings to intereact with advanced graphics settings
+Fixed the avi/cinematic errors, does not fix random game crashes. Copy ddraw.dll to game directory, launch game, if log file in the game directory was created - dll is working. Use ini or internal settings to interact with advanced graphics settings
 
 [ddraw github](https://github.com/narzoul/DDrawCompat)  
 ddraw.dll  
@@ -242,7 +242,7 @@ DisplayAspectRatio = 16:9
 ```
 
 # Contributions
-All controbutions are welcome, if you have any information about the game, please share it with us
+All contributions are welcome, if you have any information about the game, please share it with us
 
 # TODO
 - [ ] finish tech tree
