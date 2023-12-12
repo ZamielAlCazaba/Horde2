@@ -26,44 +26,55 @@ There is an option to import characters from The Northern Wind into The Citadel,
 [gamesnostalgia.com](https://gamesnostalgia.com/game/horde-the-citadel)
 
 
-<img src="assets/lithuanianworldmap.png" width="400" />
-<img src="assets/engworldmap.png" width="400" />
+<img src="assets/lithuanianworldmap.png" style="height: 30vh;" />
+<img src="assets/engworldmap.png" style="height: 30vh;" />
 
 # Buildings 
 
-## Castle
-![Alt text](assets/buildings/herobuildoption.png)
-<img src="assets/buildings/castle.png" width="200" />
-<img src="assets/buildings/Stoneagecastle.png" width="200" />
+#### Castle
+<img src="assets/buildings/herobuildoption.png" style="height: 5vw;" />
+<img src="assets/buildings/castle.png" style="height: 5vw;"/>
+<img src="assets/buildings/Stoneagecastle.png" style="height: 5vw;"/>
 
 Castle and Stone Castle are built from the hero menu only 1 can be built per map.  
-![Alt text](assets/units/image-12.png)
-## Quarry  
-![Alt text](assets/buildings/quarry.png)   
+<img src="assets/units/image-12.png" style="height: 5vw;" />       
+
+#### Quarry  
+<img src="assets/buildings/quarry.png" style="height: 5vw;" />
+
 Resource gathering buildins - gold, steel
-## Lumbermill  
-![Alt text](assets/buildings/lumbermill.png)   
+#### Lumbermill  
+<img src="assets/buildings/lumbermill.png" style="height: 5vw;" />     
+
 Resource gathering buildins - wood
-## Farm  
-![Alt text](assets/buildings/farm.png)   
+#### Farm  
+<img src="assets/buildings/farm.png" style="height: 5vw;" />       
+
 Resource gathering buildins - population, taxes
-## Barracks  
-![Alt text](assets/buildings/barracks.png)   
-## Factory  
-![Alt text](assets/buildings/factory.png)   
-## Laboratory  
-![Alt text](assets/buildings/laboratory.png)   
-## Stables  
-![Alt text](assets/buildings/stables.png)   
-## Mill  
-![Alt text](assets/buildings/mill.png)   
+#### Barracks  
+<img src="assets/buildings/barracks.png" style="height: 5vw;" />       
+
+#### Factory  
+<img src="assets/buildings/factory.png" style="height: 5vw;" />        
+
+#### Laboratory  
+<img src="assets/buildings/laboratory.png" style="height: 5vw;" />     
+
+#### Stables  
+<img src="assets/buildings/stables.png" style="height: 5vw;" />        
+
+#### Mill  
+<img src="assets/buildings/mill.png" style="height: 5vw;" />       
+
 speeds up unit production
-## Church  
-![Alt text](assets/buildings/church.png)   
+#### Church  
+<img src="assets/buildings/church.png" style="height: 5vw;" />     
+
 final building before stone age
 
-## Stone age barracks  
-![Alt text](assets/buildings/stoneagebarracks.png)   
+#### Stone age barracks  
+<img src="assets/buildings/stoneagebarracks.png" style="height: 5vw;" />       
+
 
 ![Footmen ](assets/units/image-7.png)
 ![heavy Footmen ](assets/units/image-6.png)
@@ -73,27 +84,32 @@ final building before stone age
 ![archer with a sword](assets/units/image-8.png)
 
 
-## Stone age factory  
-![Alt text](assets/buildings/stoneagefactory.png)   
+#### Stone age factory  
+<img src="assets/buildings/stoneagefactory.png" style="height: 5vw;" />        
+
 ![balista](assets/units/image-2.png)
 ![catapult](assets/units/image-9.png)
 
-## Stone age laboratory  
-![Alt text](assets/buildings/stoneagelaboratory.png)   
-## Stone age mill  
-![Alt text](assets/buildings/stoneagemill.png)   
+#### Stone age laboratory  
+<img src="assets/buildings/stoneagelaboratory.png" style="height: 5vw;" />     
+
+#### Stone age mill  
+<img src="assets/buildings/stoneagemill.png" style="height: 5vw;" />       
+
 Greatly speeds up unit production
-## Stone age stables  
-![Alt text](assets/buildings/stoneagestables.png)  
+#### Stone age stables  
+<img src="assets/buildings/stoneagestables.png" style="height: 5vw;" />        
+
 ![knight](assets/units/image.png)
 ![crossbow knight](assets/units/image-3.png)
 
-## Aviary  
-![Alt text](assets/buildings/Aviary.png)   
+#### Aviary  
+<img src="assets/buildings/Aviary.png" style="height: 5vw;" />     
+
 ![bird](assets/units/image-10.png)
 
   
-## Special units
+#### Special units
 ![megachad](assets/units/image-4.png)
 ![dragon](assets/units/image-11.png)
 
