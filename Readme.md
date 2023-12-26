@@ -229,7 +229,7 @@ Ctrl+Shift+Alt+H | Heals The Troops/Workers That Are Selected (Not Buildings)
 
 
 
-# technical links
+# Technical links
 
 ## ddraw
 Fixed the avi/cinematic errors, does not fix random game crashes. Copy ddraw.dll to game directory, launch game, if log file in the game directory was created - dll is working. Use ini or internal settings to interact with advanced graphics settings
@@ -247,4 +247,3 @@ All contributions are welcome, if you have any information about the game, pleas
 # TODO
 - [ ] finish tech tree
 - [ ] add hero items
-- [ ] get better maps
